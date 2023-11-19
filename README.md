@@ -12,6 +12,8 @@
 - [Mutant Radio](https://mutantradio.net/)
 - [Cashmere Radio](https://cashmereradio.com/)
 - [LYL Radio](https://lyl.live)
+- [HOER](https://hoer.live/)
+- [LE MELLOTRON](https://lemellotron.com/)
 - [Echo Box Radio](https://echobox.radio/)
 - [Radio Vilnius](https://radiovilnius.live/)
 - [Radio Alhara](https://yamakan.place/palestine/)
@@ -44,3 +46,4 @@
 - [Operator Radio](https://www.operator-radio.com/)
 - [Ma3azef Live](https://www.ma3azef.live/)
 - [Half Moon BK](https://www.halfmoonbk.com/)
+- [Tsugi Radio](https://www.tsugi.fr/)
