@@ -1,4 +1,4 @@
-# Awesome Radio Stations List
+# Awesome Web Radio List
 
 - [NTS Live](http://nts.live)
 - [Dublab](http://dublab.com)
