@@ -51,3 +51,4 @@
 - [Rough Radio](https://www.roughradio.live/)
 - [Radio Flouka](https://www.radioflouka.com/)
 - [Refuge Worldwide](https://refugeworldwide.com/)
+- [Radio Tempo Não Pára](https://radio-tnp.com)
