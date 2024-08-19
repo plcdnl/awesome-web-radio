@@ -52,3 +52,4 @@
 - [Radio Flouka](https://www.radioflouka.com/)
 - [Refuge Worldwide](https://refugeworldwide.com/)
 - [Radio Tempo Não Pára](https://radio-tnp.com)
+- [Rovr - Radio Reinvented](https://rovr.live/)
