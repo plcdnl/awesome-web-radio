@@ -53,3 +53,4 @@
 - [Tsugi Radio](https://www.tsugi.fr/)
 - [Veneno Live](https://veneno.live/)
 - [Worldwide FM](https://worldwidefm.net/)
+- [Stegi radio](https://stegi.radio/)
