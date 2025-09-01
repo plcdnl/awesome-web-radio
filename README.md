@@ -54,3 +54,4 @@
 - [Veneno Live](https://veneno.live/)
 - [Worldwide FM](https://worldwidefm.net/)
 - [Stegi radio](https://stegi.radio/)
+- [RADIO.D59B](https://www.radio.d59b.com/)
