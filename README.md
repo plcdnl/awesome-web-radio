@@ -15,6 +15,7 @@
 - [Internet Public Radio](https://www.internetpublicradio.live/)
 - [Jazz FM RO](https://jazzfm.ro/)
 - [Kiosk Radio](https://kioskradio.com/)
+- [KWSX Radio](https://radio.kwsx.online/)
 - [LE MELLOTRON](https://lemellotron.com/)
 - [LYL Radio](https://lyl.live)
 - [Ma3azef Live](https://www.ma3azef.live/)
